@@ -11,7 +11,7 @@ Tasks :
 Workflow:
 
 a. Fields
-1) Initilize instance of ChromeDriver class
+1) Initiaize instance of ChromeDriver class
 
 b. Methods
 
@@ -24,7 +24,7 @@ ii. ReadLogFile method
 3) print the data
 
 c. ClassInitialize
-1) Initilize a new instance of the Timer class, and sets the Timer.Interval property to the specified number of milliseconds
+1) Initialize a new instance of the Timer class, and sets the Timer.Interval property to the specified number of milliseconds
 2) Start raising the Timer.Elapsed event by setting Timer.Enabled to true
 
 d. TestInitialize 
