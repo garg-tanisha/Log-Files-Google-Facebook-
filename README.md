@@ -1,10 +1,12 @@
 # Log-Files-Google-Facebook
 
 Tasks : 
+
 1) Use MSTest to write tests 
-2) Automate Google Search using Selenium Wedriver
-3) Automate Facebook Login and Navigation (to profiles and tabs) using Selenium Webdriver
-4) Print content from the "log.txt" file every 10 seconds
+2) Create a method, which reads from the “log.txt” file and saves that value
+3) Use Timer to call the above method again and again after a time interval
+4) Write 2 TestMethods - Google Search and Facebook Login automation using Selenium Driver
+5) Print content from the "log.txt" file every 10 seconds
 
 Workflow:
 
